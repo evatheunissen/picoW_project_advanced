@@ -1,0 +1,3 @@
+Begin:
+* classes (Sensor & SensorArray) + functions (measure & calibrate, multishot & stabilize, etc)
+* UART basic functionalities
